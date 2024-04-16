@@ -1,0 +1,23 @@
+INDEX VERSION 1.132+C:\Users\kumar\Documents\SpringCoreRevision\.metadata\.plugins\org.eclipse.jdt.core
+2685117385.index
+723575562.index
+1865797976.index
+3587962900.index
+3257290834.index
+2071102739.index
+581777622.index
+2035589748.index
+4114185466.index
+1163700339.index
+3586606747.index
+2511940004.index
+3123118775.index
+4011930079.index
+2784035136.index
+1832642280.index
+1265936765.index
+3104135128.index
+3607315884.index
+1506720649.index
+569469838.index
+405461355.index

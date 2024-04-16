@@ -1,0 +1,10 @@
+package com.app.saurabh;
+
+public class Product {
+	
+	@ge
+	private Integer pid;
+	private String pcode;
+	
+
+}

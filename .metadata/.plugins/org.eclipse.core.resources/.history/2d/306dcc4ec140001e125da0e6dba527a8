@@ -1,0 +1,5 @@
+package com.app.saurabh.config;
+
+public class AppConfig {
+
+}

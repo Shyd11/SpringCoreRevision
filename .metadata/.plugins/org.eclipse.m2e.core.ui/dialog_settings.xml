@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\kumar\Documents\SpringCoreRevision\09SpringCoreConfigurationAnnotation\src\main\java\com\app\saurabh\test\Test.java"/>
+			<item value="C:\Users\kumar\Documents\SpringCoreRevision\08SpringCoreLifeCycleAnnotation"/>
+			<item value="C:\Users\kumar\Documents\SpringCoreRevision\05SpringCorePropertiesFile"/>
+			<item value="C:\Users\kumar\Documents\SpringCoreRevision\04SpringCoreAnnocation1Ex\src\main\java\com\app\saurabh\Test.java"/>
+			<item value="C:\Users\kumar\Documents\SpringCoreRevision\04SpringCoreAnnocationEx"/>
+			<item value="C:\Users\kumar\Documents\SpringCoreRevision\03SpringCoreXmlRefEx"/>
+			<item value="C:\Users\kumar\Documents\SpringCoreRevision\01SpringCoreConfigEx"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.app.saurabh"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="10SpringCoreScopeEx"/>
+			<item value="SpringCoreScopeEx"/>
+			<item value="10SpringCoreJavaConfigPropsEx"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

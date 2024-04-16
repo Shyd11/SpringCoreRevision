@@ -1,0 +1,15 @@
+package com.app.saurabh.test;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.app.saurabh.config.AppConfig;
+
+public class Test {
+	public static void main(String[] args) {
+		AnnotationConfigApplicationContext ac = new AnnotationConfigApplicationContext(AppConfig.class);
+		
+		
+		
+	}
+
+}
